@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RuntimeCompiler" type="CMakeRunConfiguration" factoryName="Application" singleton="true" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RuntimeCppForApple" TARGET_NAME="RuntimeCompiler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RuntimeCppForApple" RUN_TARGET_NAME="RuntimeCompiler">
+    <envs />
+    <method />
+  </configuration>
+</component>
